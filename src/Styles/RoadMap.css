@@ -1,0 +1,28 @@
+﻿.roadmap-container {
+    padding: 50px;
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.roadmap-timeline {
+    display: flex;
+    flex-direction: column;
+}
+
+.roadmap-item {
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    background-color: #444;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 10px;
+    margin-top: 10px;
+}
+
+.progress {
+    background-color: #8900F2;
+    height: 100%;
+    transition: width 0.3s ease;
+}
