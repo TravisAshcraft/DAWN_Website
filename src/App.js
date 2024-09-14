@@ -5,13 +5,15 @@ import Roadmap from './Components/Roadmap';
 import ZombieShowcase from './Components/ZombieShowcase';
 import Footer from './Pages/Footer';
 import './App.css';
+import NewsletterSignUp from "./Components/NewsletterSignUp";
 
 function App() {
   return (
       <div className="App">
         <HeroSection />
         <Roadmap />
-        <ZombieShowcase />
+        <NewsletterSignUp/>
+          <ZombieShowcase/>
         <Footer />
       </div>
   );
