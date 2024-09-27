@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DAWN_Website/static/css/main.92774451.css",
-    "main.js": "/DAWN_Website/static/js/main.5895ef8a.js",
+    "main.css": "/DAWN_Website/static/css/main.2e027caa.css",
+    "main.js": "/DAWN_Website/static/js/main.8fd94651.js",
     "static/js/453.13c4af87.chunk.js": "/DAWN_Website/static/js/453.13c4af87.chunk.js",
     "index.html": "/DAWN_Website/index.html",
-    "main.92774451.css.map": "/DAWN_Website/static/css/main.92774451.css.map",
-    "main.5895ef8a.js.map": "/DAWN_Website/static/js/main.5895ef8a.js.map",
+    "main.2e027caa.css.map": "/DAWN_Website/static/css/main.2e027caa.css.map",
+    "main.8fd94651.js.map": "/DAWN_Website/static/js/main.8fd94651.js.map",
     "453.13c4af87.chunk.js.map": "/DAWN_Website/static/js/453.13c4af87.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92774451.css",
-    "static/js/main.5895ef8a.js"
+    "static/css/main.2e027caa.css",
+    "static/js/main.8fd94651.js"
   ]
 }
